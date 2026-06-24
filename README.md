@@ -1,7 +1,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/>
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4500&pause=500&color=D9BED1&width=500&lines=MERN+Stack+Developer;IT+Engineering+Student+%40+TCET;Open+to+Internship+Opportunities;Building+Real-World+Web+Applications;Learning+System+Design+%26+Cloud" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=24&duration=4500&pause=500&color=D9BED1&width=500&lines=Hi%2C+I'm+Harsh+Patel+%F0%9F%91%8B;MERN+Stack+Developer;Open+to+Internship+Opportunities" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -105,7 +105,6 @@
 ## Employer?
 
 > [!IMPORTANT]
-> Interested in working together?
-> <a href="https://drive.google.com/file/d/1KaE0gXzUf-KvPi523FK3sRzaWC0h0iV4/view?usp=sharing">Download my resume</a>
+> Interested in working together? <a href="https://drive.google.com/file/d/1KaE0gXzUf-KvPi523FK3sRzaWC0h0iV4/view?usp=sharing">Download my resume</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
