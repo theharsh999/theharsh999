@@ -69,16 +69,16 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mr-harsh-patel&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&icon_color=D9BED1&text_color=ffffff" alt="Harsh's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mr-harsh-patel&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&text_color=ffffff" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theharsh999&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&icon_color=D9BED1&text_color=ffffff" alt="Harsh's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theharsh999&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&text_color=ffffff" alt="Top Languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=mr-harsh-patel&theme=dark&hide_border=true&background=0d1117&ring=D9BED1&fire=D9BED1&currStreakLabel=D9BED1" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=theharsh999&theme=dark&hide_border=true&background=0d1117&ring=D9BED1&fire=D9BED1&currStreakLabel=D9BED1" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mr-harsh-patel&theme=github-compact&hide_border=true&bg_color=0d1117&color=D9BED1&line=D9BED1&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theharsh999&theme=github-compact&hide_border=true&bg_color=0d1117&color=D9BED1&line=D9BED1&point=ffffff" alt="Contribution Graph"/>
 </p>
 
 <br/>
@@ -102,9 +102,14 @@
 
 <br/>
 
-## Employer?
+## For Recruiters
 
 > [!IMPORTANT]
-> Interested in working together? <a href="https://drive.google.com/file/d/1KaE0gXzUf-KvPi523FK3sRzaWC0h0iV4/view?usp=sharing">Download my resume</a>
+> Looking for a Full Stack Developer Intern?
+>
+> 📄 View my resume:
+>
+> <a href="https://drive.google.com/file/d/1KaE0gXzUf-KvPi523FK3sRzaWC0h0iV4/view?usp=sharing">Download Resume</a>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
+
