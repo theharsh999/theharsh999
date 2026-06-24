@@ -49,12 +49,12 @@
 
 ## Featured Projects
 
-| Project | Description | Tech Stack |
-|---|---|---|
-| [**ResumeEdge**](https://github.com/mr-harsh-patel) | AI Resume Builder & ATS Resume Generator | React, Node.js, OpenAI |
-| [**FixMyCampus**](https://github.com/mr-harsh-patel) | Campus Complaint Management System | MERN Stack |
-| [**Wanderlust**](https://github.com/mr-harsh-patel) | Airbnb-inspired Travel Booking Platform | Node.js, MongoDB, EJS |
-| [**Portfolio**](https://harsh-patel-portfolio-opus.vercel.app) | Personal Developer Portfolio | React, Tailwind CSS |
+| Project | Description | Tech Stack | Links |
+|---|---|---|---|
+| **ResumeEdge** | AI Resume Builder & ATS Resume Generator | React, Node.js, OpenAI | [GitHub](https://github.com/theharsh999/resume-edge) • [Live Demo](https://resume-edge-ai.vercel.app/) |
+| **FixMyCampus** | Campus Complaint Management System | MERN Stack | [GitHub](https://github.com/theharsh999/FixMyCampus) • [Live Demo](https://fix-my-campus-nine.vercel.app) |
+| **Wanderlust** | Airbnb-inspired Travel Booking Platform | Node.js, MongoDB, EJS | [GitHub](https://github.com/theharsh999/WanderLust) • [Live Demo](https://wanderlust-3sg5.onrender.com) |
+| **Portfolio** | Personal Developer Portfolio | React, Tailwind CSS | [GitHub](https://github.com/theharsh999/harsh-patel-portfolio) • [Live Demo](https://harsh-patel-portfolio-opus.vercel.app/) |
 
 <br/>
 
@@ -89,6 +89,9 @@
   <a href="https://linkedin.com/in/mr-harsh-patel">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://github.com/theharsh999">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
   <a href="https://harsh-patel-portfolio-opus.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-D9BED1?style=for-the-badge&logo=vercel&logoColor=black" alt="Portfolio"/>
   </a>
