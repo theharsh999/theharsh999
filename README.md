@@ -69,8 +69,8 @@
 ## GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theharsh999&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&icon_color=D9BED1&text_color=ffffff" alt="Harsh's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theharsh999&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&text_color=ffffff" alt="Top Languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theharsh999&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&icon_color=D9BED1&text_color=ffffff&cache_seconds=21600" alt="Harsh's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theharsh999&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&text_color=ffffff&cache_seconds=21600" alt="Top Languages"/>
 </p>
 
 <p align="center">
