@@ -68,25 +68,28 @@
 
 <h2>GitHub Analytics</h2>
 
+<table align="center">
+<tr>
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats-alpha-fawn-13.vercel.app/api?username=theharsh999&show_icons=true&count_private=true&include_all_commits=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&icon_color=D9BED1&text_color=ffffff" />
+
+</td>
+
+<td align="center" width="50%">
+
+<img src="https://github-readme-stats-alpha-fawn-13.vercel.app/api/top-langs/?username=theharsh999&layout=compact&langs_count=6&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&text_color=ffffff" />
+
+</td>
+</tr>
+</table>
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theharsh999&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&icon_color=D9BED1&text_color=ffffff" alt="Harsh's GitHub Stats" />
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theharsh999&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&text_color=ffffff" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=theharsh999&theme=dark&hide_border=true&background=0d1117&ring=D9BED1&fire=D9BED1&currStreakLabel=D9BED1"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=theharsh999&theme=dark&hide_border=true&background=0d1117&ring=D9BED1&fire=D9BED1&currStreakLabel=D9BED1" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theharsh999&theme=github-compact&hide_border=true&bg_color=0d1117&color=D9BED1&line=D9BED1&point=ffffff" alt="Contribution Graph"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=theharsh999&theme=dark&hide_border=true&background=0d1117&ring=D9BED1&fire=D9BED1&currStreakLabel=D9BED1" alt="GitHub Streak"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theharsh999&theme=github-compact&hide_border=true&bg_color=0d1117&color=D9BED1&line=D9BED1&point=ffffff" alt="Contribution Graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theharsh999&theme=github-compact&hide_border=true&bg_color=0d1117&color=D9BED1&line=D9BED1&point=ffffff"/>
 </p>
 
 <br/>
