@@ -66,11 +66,19 @@
 
 <br/>
 
-## GitHub Analytics
+<h2>GitHub Analytics</h2>
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=theharsh999&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&icon_color=D9BED1&text_color=ffffff&cache_seconds=21600" alt="Harsh's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=theharsh999&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&text_color=ffffff&cache_seconds=21600" alt="Top Languages"/>
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=theharsh999&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&icon_color=D9BED1&text_color=ffffff" alt="Harsh's GitHub Stats" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=theharsh999&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=D9BED1&text_color=ffffff" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=theharsh999&theme=dark&hide_border=true&background=0d1117&ring=D9BED1&fire=D9BED1&currStreakLabel=D9BED1" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=theharsh999&theme=github-compact&hide_border=true&bg_color=0d1117&color=D9BED1&line=D9BED1&point=ffffff" alt="Contribution Graph"/>
 </p>
 
 <p align="center">
